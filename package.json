@@ -1,0 +1,28 @@
+{
+  "name": "better-editor",
+  "version": "0.0.1",
+  "description": "支持本地视频上传的富文本编辑器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hukai123/hEditor.git"
+  },
+  "keywords": [
+    "editor",
+    "hEditor",
+    "HEditor",
+    "wangEditor",
+    "text",
+    "upload",
+    "videoUpload"
+  ],
+  "author": "hukai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hukai123/hEditor/issues"
+  },
+  "homepage": "https://github.com/hukai123/hEditor#readme"
+}
